@@ -1,0 +1,40 @@
+timestamp,session_id,user_input,model_response,latency_ms,app_version
+2026-11-05T15:35:23.147133+00:00,3e6c8d97-adec-4f00-a394-6fd75b54952a,ال,"Sorry, I could not process your request due to a configuration or API error: Missing credentials. Please pass an `api_key`, `workload_identity`, `admin_api_key`, or set the `OPENAI_API_KEY` or `OPENAI_ADMIN_KEY` environment variable.",0.00,baseline
+2026-11-05T15:44:05.318613+00:00,ab2d7066-3710-4443-9778-c18213bbf958,ا,"Sorry, I could not process your request due to a configuration or API error: Missing credentials. Please pass an `api_key`, `workload_identity`, `admin_api_key`, or set the `OPENAI_API_KEY` or `OPENAI_ADMIN_KEY` environment variable.",0.00,baseline
+2026-11-05T15:55:01.620500+00:00,999617de-2908-43b2-8807-3d80b27bc08f,السلام عليكم ,"Sorry, I could not process your request due to a configuration or API error: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",0.00,baseline
+2026-11-05T15:55:22.059658+00:00,eac2cbb4-1af4-4d5f-a469-022dedd37820,ا,"Sorry, I could not process your request due to a configuration or API error: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",0.00,baseline
+2026-11-05T15:55:25.292491+00:00,eac2cbb4-1af4-4d5f-a469-022dedd37820,ا,"Sorry, I could not process your request due to a configuration or API error: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",0.00,baseline
+2026-11-05T16:01:49.872342+00:00,a64d8180-4adb-46ab-bbbc-75c1118b9806,السلام عليكم,وعليكم السلام! كيف يمكنني مساعدتك اليوم؟,2389.06,baseline
+2026-11-05T16:02:03.047334+00:00,a64d8180-4adb-46ab-bbbc-75c1118b9806,ماهي النتجات المتوفلة,"مرحباً!  
+نحن نقدم مجموعة واسعة من المنتجات في فئات متعددة، منها:
+
+- **الإلكترونيات**: هواتف، حواسيب، سماعات، كاميرات، ملحقات.
+- **الملابس والأزياء**: ملابس رجالية، نسائية، أطفال، أحذية، إكسسوارات.
+- **المنزل والديكور**: أثاث، مستلزمات المطبخ، إضاءة، ديكورات.
+- **المنتجات الصحية والجمال**: مستحضرات تجميل، منتجات العناية بالبشرة، مكملات.
+- **الرياضة واللياقة**: ملابس رياضية، معدات، ملحقات.
+- **الألعاب والكتب**: ألعاب أطفال، كتب، ألعاب إلكترونية.
+
+إذا كنت مهتمًا بفئة معينة أو تبحث عن منتج محدد، يُرجى إخباري، وسأساعدك في العثور عليه أو عرض الأسعار المتاحة.",1612.06,baseline
+2026-11-05T16:05:46.213378+00:00,219b98d1-36eb-41d5-b0b0-9c5335bde4d5,السلام عليكم ,وعليكم السلام! كيف يمكنني مساعدتك اليوم؟,2314.63,baseline
+2026-11-05T16:05:54.184973+00:00,219b98d1-36eb-41d5-b0b0-9c5335bde4d5,ماذا توفر\,"مرحبًا!  
+**ShopEase** تقدم لك تجربة تسوق شاملة ومريحة، تشمل:
+
+- **مجموعة واسعة من المنتجات**: إلكترونيات، أزياء، مستحضرات تجميل، أدوات منزلية، ألعاب، منتجات رياضية، وأكثر من ذلك.
+- **سعر تنافسي** مع عروض وتخفيضات دورية.
+- **شحن سريع وآمن**: توصيل في غضون 3‑5 أيام عمل (حسب المنطقة) مع تتبع الطرد.
+- **سياسة إرجاع مرنة**: إرجاع أو استبدال المنتجات خلال 30 يومًا من الاستلام، مع تغطية الشحن في حال كان العيب من الطرف المتعامل.
+- **دعم العملاء** متاح 24/7 عبر الدردشة، البريد الإلكتروني، أو الهاتف، مع فريق متخصص للرد على استفساراتك.
+- **طرق دفع متعددة**: بطاقة ائتمان، بطاقة خصم، دفع عند الاستلام، محفظة إلكترونية.
+
+إذا كان لديك أي سؤال محدد أو تحتاج مساعدة في طلب أو سياسة معينة، فأنا هنا للمساعدة!",3051.33,baseline
+2026-11-05T16:06:11.595875+00:00,219b98d1-36eb-41d5-b0b0-9c5335bde4d5,كيف يمكنك مساعدتي,"أهلاً وسهلاً!  
+يمكنني مساعدتك في أي من الأمور التالية:
+
+1. **تتبع طلبك** – أخبرني برقم الطلب وسأطلعك على آخر تحديث.
+2. **سياسة الإرجاع/الاستبدال** – أطلعك على الخطوات والإجراءات.
+3. **معلومات عن منتج محدد** – تفاصيل المواصفات، المتوفر، الأسعار.
+4. **مساعدة في عملية الدفع أو الشحن** – خيارات الشحن، طرق الدفع المتاحة.
+5. **الاستفسارات العامة** – أي سؤال آخر حول الموقع أو الخدمات.
+
+ما الذي تحتاجه بالضبط؟",988.10,baseline
